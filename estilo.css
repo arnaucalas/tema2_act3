@@ -1,0 +1,38 @@
+body{
+    /*background-color: peru;*/
+    background-image: url(imagenes/rana.jpeg);
+    background-size: cover;
+    background-repeat: no-repeat;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+h1{
+    background-color: navajowhite;
+    text-align: center;
+    border: 5px solid blue;
+    padding: 10px;
+}
+
+h2{
+    color: blueviolet;
+    text-align: center;
+    font-style: italic;
+    text-decoration: underline;
+}
+ul{
+    list-style: none;
+    text-align: center;
+}
+li{
+    /* Borde naranja */
+    border: 5px solid orangered;
+    /* color de fondo blanco */
+    background-color: white;
+    padding: 10px;
+    display: inline-block;
+    margin: 5px;
+}
+a{
+    color: orangered;
+    font-weight: bold;
+}
